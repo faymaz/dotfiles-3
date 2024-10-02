@@ -1,3 +1,5 @@
+let g:user_name = "faymaz"
+let g:user_email = "faymaz@faymaz.cxy"
 set number
 set relativenumber
 set nocompatible
